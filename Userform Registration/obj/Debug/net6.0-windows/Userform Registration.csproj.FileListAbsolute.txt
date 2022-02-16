@@ -1,0 +1,7 @@
+C:\Users\umesh\Desktop\Userform Registration\Userform Registration\obj\Debug\net6.0-windows\Userform Registration.csproj.AssemblyReference.cache
+C:\Users\umesh\Desktop\Userform Registration\Userform Registration\obj\Debug\net6.0-windows\Userform_Registration.Form1.resources
+C:\Users\umesh\Desktop\Userform Registration\Userform Registration\obj\Debug\net6.0-windows\Userform Registration.csproj.GenerateResource.cache
+C:\Users\umesh\Desktop\Userform Registration\Userform Registration\obj\Debug\net6.0-windows\Userform Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umesh\Desktop\Userform Registration\Userform Registration\obj\Debug\net6.0-windows\Userform Registration.AssemblyInfoInputs.cache
+C:\Users\umesh\Desktop\Userform Registration\Userform Registration\obj\Debug\net6.0-windows\Userform Registration.AssemblyInfo.cs
+C:\Users\umesh\Desktop\Userform Registration\Userform Registration\obj\Debug\net6.0-windows\Userform Registration.csproj.CoreCompileInputs.cache
